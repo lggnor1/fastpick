@@ -1,4 +1,4 @@
-#VALORANT FAST PICKER
+VALORANT FAST PICKER
 
 now:
  - for English and Korean
@@ -12,4 +12,4 @@ needs:
  - all agent unlock
 
 soon:
- - add for korean
+ - add 
