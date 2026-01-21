@@ -1,6 +1,7 @@
-VALORANT FAST PICKER
+#VALORANT FAST PICKER
+
 now:
- - for english
+ - for English and Korean
 
 functions:
  - you can fastest pick
